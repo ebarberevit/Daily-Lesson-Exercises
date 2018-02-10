@@ -1,5 +1,5 @@
 # Your Name - Python Daily Exercise number (seperate out this activity into three seperate .py files for each exercise) - date of learning
-# For example on line 1 (files should be named like shown on lines 3-8 for your .py files without the hashtag#):
+# For example on line 1 (files should be named like shown on lines 3, 5, 7 for your .py files without the hashtag#):
 # John Smith - Python Daily Exercise 1 - Date you created the file 02082018
 #   Remove exercises 2 and 3 for exercise 1
 # John Smith - Python Daily Exercise 2 - Date you created the file 
@@ -20,6 +20,3 @@
 # For multiples of three, print "usb" instead of the number and for the mulitiples of five, print "device". 
 # For numbers which are multiples of both three and five, print "usb device".
 # Print a new line after each string or number.
-
-
-
