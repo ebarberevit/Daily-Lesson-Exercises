@@ -1,4 +1,4 @@
-#Your Name - Python Daily Exercise - date of learning
+#Your Name - Python Daily Exercise number (seperate out this activity into three seperate .py files for each exercise) - date of learning
 
 # Instructions - create a file for each of the daily exercises, answer each question seperately
 
