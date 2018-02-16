@@ -4,8 +4,6 @@
 #   Remove exercises 2 and 3 for exercise 1
 # John Smith - Python Daily Exercise 2 - Date you created the file 
 #   Remove exercises 1 and 3 for exercise 2
-# John Smith - Python Daily Exercise 3 - Date you created the file
-#   Remove exercises 1 and 2 for exercise 3
 
 # Instructions - create a file for each of the daily exercises, answer each question seperately
 
